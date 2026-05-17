@@ -1,0 +1,24 @@
+.config-page h1 {
+  margin-bottom: 30px;
+  color: var(--text-primary);
+}
+
+.config-page h2 {
+  margin-bottom: 20px;
+  color: var(--text-primary);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 20px;
+}
+

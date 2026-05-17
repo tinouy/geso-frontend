@@ -1,0 +1,34 @@
+.profile-page h1 {
+  margin-bottom: 30px;
+  color: var(--text-primary);
+}
+
+.profile-page h2 {
+  margin-bottom: 20px;
+  color: var(--text-primary);
+}
+
+.error-message {
+  background-color: var(--error-color);
+  color: white;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.success-message {
+  background-color: var(--success-color);
+  color: white;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.disabled-input {
+  background-color: var(--bg-secondary);
+  color: var(--text-secondary);
+  cursor: not-allowed;
+}
+
